@@ -1,8 +1,6 @@
 ```Python
 #!/usr/bin/python
-```
 import math
-```
 import time
 def quadratic(a,b,c):
     if b*b-4*a*c<0:
